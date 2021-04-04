@@ -1,0 +1,67 @@
+header{
+    background-color: #593f62;
+    margin: 0px;
+    padding: 0%;
+}
+h1 {
+    margin-left: 40px;
+    display: inline-block;
+    color: white;
+    font-size: 40px;
+}
+body{
+    font-family: cursive;
+    margin: 0%;
+    background-color: #7b6d8d;
+}
+nav {
+    float: right;
+
+    
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 21.44px;
+   
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+    margin-top: 21.44px;
+}
+h2{
+    color: white;
+    text-align: center;
+    background-color: #593f62;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+.firstpage{
+    background-color: #593f62;
+    color: white;
+    text-align: center;
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+.fot{
+    text-align: center;
+    color: white;
+    
+    
+}
+h3{
+    color: white;
+    text-align: center;
+    background-color: #593f62;
+}
+p{
+    text-align: center;
+    color: #f0b5b3;
+    
+}
